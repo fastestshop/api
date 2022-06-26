@@ -6,6 +6,7 @@ authors = ["Jonatas Silva"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+fastapi = {extras = ["all"], version = "^0.78.0"}
 
 [tool.poetry.dev-dependencies]
 
